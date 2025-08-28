@@ -1,0 +1,16 @@
+{
+  "name": "bot-cartel-dayz",
+  "version": "1.0.0",
+  "description": "Bot de Discord para generar carteles de DayZ con objetos Land_Container_1Bo_DE",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^17.2.1"
+  },
+  "keywords": ["discord", "bot", "dayz", "cartel"],
+  "author": "",
+  "license": "MIT"
+}
